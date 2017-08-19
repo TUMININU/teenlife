@@ -1,0 +1,22 @@
+
+img {
+margin-top: 50px;
+margin-right:40px;
+margin-left: 60px;
+border-bottom: 50px;
+border:2px solid red;
+}
+li{
+display: inline-block;
+margin:10px 10px 10px 10px;
+font-size: 25px;
+font-family: fantasy;
+padding-top: 10px;
+padding-bottom: 0px;
+padding-left: 2px;
+padding-right: 2px;
+
+}
+ul{
+
+}
